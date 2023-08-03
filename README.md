@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Ignacio Villarruel</h1>
 <h3 align="center">Systems engineering student interested in web development</h3>
