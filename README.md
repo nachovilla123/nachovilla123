@@ -3,13 +3,15 @@
 <h1 align="center">Hi 👋, I'm Ignacio Villarruel</h1>
 <h3 align="center">Systems engineering student interested in web development</h3>
 
+- 🌱 I’m currently learning **React.js**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nachovilla123&label=Profile%20views&color=0e75b6&style=flat" alt="nachovilla123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nachovilla123" alt="nachovilla123" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
 
-- 📫 How to reach me **linkedin.com/in/ignaciovillarruel/**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
